@@ -1,1 +1,1 @@
-# MOHA_BG
+# click on file start-wifi.bat 
